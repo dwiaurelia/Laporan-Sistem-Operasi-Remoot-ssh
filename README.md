@@ -1,1 +1,0 @@
-# Laporan-Sistem-Operasi-Remoot-ssh
